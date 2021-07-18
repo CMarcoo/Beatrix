@@ -1,4 +1,5 @@
 # Beatrix
-Riconosce appartenenza locale di una canzone.
+Utilizza AI per il riconoscimento di una canzone.
+
 Collaboratori:
 Federica, Maria, Sarah, Lorenzo
